@@ -1,10 +1,6 @@
 import sys
 import math
 
-# This code automatically collects game data in an infinite loop.
-# It uses the standard input to place data into the game variables such as x and y.
-# YOU DO NOT NEED TO MODIFY THE INITIALIZATION OF THE GAME VARIABLES.
-
 
 # game loop
 while True:
